@@ -10,7 +10,8 @@ We are adding funcntionality to the end product webpage by adding multiple filte
 * One would use this website to garner an idea of the amount of UFO sightings that have occurred in a given time in a given place. See below for an idea of someone who filtered with a specific date in mind from White Oak PA.
 ***Filter Screenshot***
 update below filepath when github/terminal works
-![name-of-you-image](https://github.com/Nimamotiee/stock-analysis/blob/main/Resources/2017%20Stock%20Analysis%20Output.JPG)
+![name-of-you-image](https://github.com/Nimamotiee/UFOs/blob/main/images/FilterShot.png)
+
 
 ### Summary
 Drawback- One drawback of this webpage is the lack of interaction, would think adding an interactive map that corresponds to sightings would be helpful.
