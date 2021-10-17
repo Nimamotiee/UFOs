@@ -9,7 +9,7 @@ We are adding funcntionality to the end product webpage by adding multiple filte
 ### Results
 * One would use this website to garner an idea of the amount of UFO sightings that have occurred in a given time in a given place. See below for an idea of someone who filtered with a specific date in mind from White Oak PA.
 ***Filter Screenshot***
-update below filepath when github/terminal works
+
 ![name-of-you-image](https://github.com/Nimamotiee/UFOs/blob/main/images/FilterShot.png)
 
 
